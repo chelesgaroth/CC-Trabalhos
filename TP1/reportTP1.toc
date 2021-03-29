@@ -1,0 +1,7 @@
+\babel@toc {portuges}{}
+\contentsline {section}{\numberline {1}Questões e Respostas}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1} Questão 1}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2} Questão 2}{8}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3} Questão 3}{10}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4} Questão 4}{11}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Conclusões}{13}{section.2}%

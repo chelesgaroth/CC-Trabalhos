@@ -1,0 +1,674 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.28)  16 MAR 2021 19:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**reportTP1.tex
+(./reportTP1.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count176
+)
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen136
+\ar@mcellbox=\box45
+\extrarowheight=\dimen137
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+)
+\everycr=\toks17
+\minrowclearance=\skip51
+)
+\rownum=\count177
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen138
+\Gin@req@width=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count178
+\multirow@dima=\skip53
+\bigstrutjot=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/generic/soulutf8/soulutf8.sty
+Package: soulutf8 2019/12/15 v1.2 Permit use of UTF-8 characters in soul (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks19
+\SOUL@lasttoken=\toks20
+\SOUL@cmds=\toks21
+\SOUL@buffer=\toks22
+\SOUL@token=\toks23
+\SOUL@spaceskip=\skip54
+\SOUL@ttwidth=\dimen141
+\SOUL@uldp=\dimen142
+\SOUL@ulht=\dimen143
+)
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen144
+\c@nlinenum=\count179
+\TeXr@lab=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen145
+\Hy@linkcounter=\count180
+\Hy@pagecounter=\count181
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count182
+\pdfmajorversion=\count183
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count184
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen146
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count185
+\Field@Width=\dimen147
+\Fld@charsize=\dimen148
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count186
+\c@Item=\count187
+\c@Hfootnote=\count188
+)
+Package hyperref Info: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count189
+\c@bookmark@seq@number=\count190
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen149
+\captionmargin@=\dimen150
+\captionwidth=\dimen151
+\caption@tempdima=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count191
+\c@continuedfloat=\count192
+Package caption Info: hyperref package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count193
+\l__pdf_internal_box=\box47
+)
+(./reportTP1.aux)
+\openout1 = `reportTP1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen156
+\scratchbox=\box48
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen157
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring OFF on input line 25.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count266
+)
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
+
+(./reportTP1.out) (./reportTP1.out)
+\@outlinefile=\write3
+\openout3 = `reportTP1.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<images/um.png, id=28, 301.125pt x 273.02pt>
+File: images/um.png Graphic file (type png)
+<use images/um.png>
+Package pdftex.def Info: images/um.png  used on input line 30.
+(pdftex.def)             Requested size: 150.56212pt x 136.50966pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/um.png>]
+(./reportTP1.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+\tf@toc=\write4
+\openout4 = `reportTP1.toc'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\T1/cmr/m/n/10 Protocolo de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\T1/cmr/m/n/10 Apli-ca-ção (se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\T1/cmr/m/n/10 Protocolo de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\T1/cmr/m/n/10 Trans-porte (se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]|\T1/cmr/m/it/10 Overhead \T1/cmr/m/n/10 de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\T1/cmr/m/n/10 trans-porte em
+ []
+
+
+Overfull \hbox (87.30963pt too wide) in paragraph at lines 78--100
+ [] 
+ []
+
+<images/ping.png, id=55, 1852.9225pt x 975.645pt>
+File: images/ping.png Graphic file (type png)
+<use images/ping.png>
+Package pdftex.def Info: images/ping.png  used on input line 105.
+(pdftex.def)             Requested size: 426.16321pt x 224.39363pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 106.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (81.16321pt too wide) in paragraph at lines 105--106
+ [] 
+ []
+
+<images/traceroute.png, id=56, 1852.9225pt x 975.645pt>
+File: images/traceroute.png Graphic file (type png)
+<use images/traceroute.png>
+Package pdftex.def Info: images/traceroute.png  used on input line 110.
+(pdftex.def)             Requested size: 426.16321pt x 224.39363pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 111.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (81.16321pt too wide) in paragraph at lines 110--111
+ [] 
+ []
+
+[3 <./images/ping.png>]
+<images/telnet.png, id=67, 1852.9225pt x 975.645pt>
+File: images/telnet.png Graphic file (type png)
+<use images/telnet.png>
+Package pdftex.def Info: images/telnet.png  used on input line 116.
+(pdftex.def)             Requested size: 426.16321pt x 224.39363pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 117.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (81.16321pt too wide) in paragraph at lines 116--117
+ [] 
+ []
+
+<images/FTP.png, id=68, 1852.9225pt x 975.645pt>
+File: images/FTP.png Graphic file (type png)
+<use images/FTP.png>
+Package pdftex.def Info: images/FTP.png  used on input line 121.
+(pdftex.def)             Requested size: 426.16321pt x 224.39363pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 122.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (81.16321pt too wide) in paragraph at lines 121--122
+ [] 
+ []
+
+[4 <./images/traceroute.png> <./images/telnet.png>]
+<images/tftp.png, id=75, 1852.9225pt x 975.645pt>
+File: images/tftp.png Graphic file (type png)
+<use images/tftp.png>
+Package pdftex.def Info: images/tftp.png  used on input line 126.
+(pdftex.def)             Requested size: 426.16321pt x 224.39363pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 127.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (81.16321pt too wide) in paragraph at lines 126--127
+ [] 
+ []
+
+<images/http.png, id=76, 1852.9225pt x 975.645pt>
+File: images/http.png Graphic file (type png)
+<use images/http.png>
+Package pdftex.def Info: images/http.png  used on input line 131.
+(pdftex.def)             Requested size: 426.16321pt x 224.39363pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 132.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (81.16321pt too wide) in paragraph at lines 131--132
+ [] 
+ []
+
+[5 <./images/FTP.png> <./images/tftp.png>]
+<images/nslookup.png, id=83, 1852.9225pt x 975.645pt>
+File: images/nslookup.png Graphic file (type png)
+<use images/nslookup.png>
+Package pdftex.def Info: images/nslookup.png  used on input line 136.
+(pdftex.def)             Requested size: 426.16321pt x 224.39363pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 137.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (81.16321pt too wide) in paragraph at lines 136--137
+ [] 
+ []
+
+<images/ssh.png, id=84, 1852.9225pt x 975.645pt>
+File: images/ssh.png Graphic file (type png)
+<use images/ssh.png>
+Package pdftex.def Info: images/ssh.png  used on input line 141.
+(pdftex.def)             Requested size: 426.16321pt x 224.39363pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 142.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (81.16321pt too wide) in paragraph at lines 141--142
+ [] 
+ []
+
+[6 <./images/http.png> <./images/nslookup.png>] [7 <./images/ssh.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+<images/ftp1.1.png, id=97, 707.64375pt x 394.47375pt>
+File: images/ftp1.1.png Graphic file (type png)
+<use images/ftp1.1.png>
+Package pdftex.def Info: images/ftp1.1.png  used on input line 154.
+(pdftex.def)             Requested size: 424.58952pt x 236.68607pt.
+<images/ftp1.2.png, id=98, 1415.2875pt x 211.79124pt>
+File: images/ftp1.2.png Graphic file (type png)
+<use images/ftp1.2.png>
+Package pdftex.def Info: images/ftp1.2.png  used on input line 155.
+(pdftex.def)             Requested size: 424.58952pt x 63.53786pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 156.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (79.58952pt too wide) in paragraph at lines 154--156
+ [] 
+ []
+
+
+Overfull \hbox (79.58952pt too wide) in paragraph at lines 154--156
+ [] 
+ []
+
+<images/diagramaFTP.png, id=99, 713.66624pt x 1086.0575pt>
+File: images/diagramaFTP.png Graphic file (type png)
+<use images/diagramaFTP.png>
+Package pdftex.def Info: images/diagramaFTP.png  used on input line 160.
+(pdftex.def)             Requested size: 356.83224pt x 543.02742pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 161.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (11.83224pt too wide) in paragraph at lines 160--161
+ [] 
+ []
+
+[8 <./images/ftp1.1.png> <./images/ftp1.2.png>] [9 <./images/diagramaFTP.png>]
+<images/diagramaTFTP.png, id=112, 482.80376pt x 393.47pt>
+File: images/diagramaTFTP.png Graphic file (type png)
+<use images/diagramaTFTP.png>
+Package pdftex.def Info: images/diagramaTFTP.png  used on input line 170.
+(pdftex.def)             Requested size: 241.40129pt x 196.73451pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 171.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+[10 <./images/diagramaTFTP.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+<images/4.png, id=119, 546.24075pt x 502.87875pt>
+File: images/4.png Graphic file (type png)
+<use images/4.png>
+Package pdftex.def Info: images/4.png  used on input line 199.
+(pdftex.def)             Requested size: 327.74698pt x 301.72957pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 200.
+See the caption package documentation for explanation.
+
+[11]
+<images/4.2.png, id=124, 334.24875pt x 283.65974pt>
+File: images/4.2.png Graphic file (type png)
+<use images/4.2.png>
+Package pdftex.def Info: images/4.2.png  used on input line 206.
+(pdftex.def)             Requested size: 100.27539pt x 85.09857pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 207.
+See the caption package documentation for explanation.
+
+[12 <./images/4.png> <./images/4.2.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
+ (./reportTP1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
+Package rerunfilecheck Info: File `reportTP1.out' has not changed.
+(rerunfilecheck)             Checksum: E3D104F708EE4D1110CD7CFE6A54344B;354.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
+ ) 
+Here is how much of TeX's memory you used:
+ 8187 strings out of 481239
+ 124193 string characters out of 5920376
+ 402953 words of memory out of 5000000
+ 23267 multiletter control sequences out of 15000+600000
+ 542931 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,12n,42p,690b,519s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.60
+0pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.
+600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti100
+0.600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
+200.600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
+x1440.600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm1000.600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecbx1000.600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm1200.600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/tcbx1728.600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecbx1728.600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecrm2488.600pk> </home/raquel/.texlive2019/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecrm1728.600pk>
+Output written on reportTP1.pdf (13 pages, 3997772 bytes).
+PDF statistics:
+ 472 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 124 words of extra memory for PDF output out of 10000 (max. 10000000)
+
